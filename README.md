@@ -1,2 +1,2 @@
-# ADES_R
-This repository contains the scripts of data analysis projects with R, carried out during the statistics course of the degree in Economics and Management at the University of Trento
+# Data analysis with R
+The "Homework_ADES.R" file contains the execution of the homework assigned by Professor Espa Giuseppe, owner of the "Data analysis and statistics" course (2022), delivered in the first year of the BSc course in Economics and Management at the University of Trent. It is possible to find the deliveries of the exercises with the related datasets used at the following link: https://drive.google.com/drive/folders/1CtHfXFF2e6oo6q7VtbNT3lrXNS9TcKUc?usp=sharing
